@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<CharDetails>
+    <char id = "01_Shallot_H_LGT.png">
+        <name>Shallot</name>
+        <color>lightElement</color>
+        <health>184460</health>
+        <strikeatt>20270</strikeatt>
+        <blastatt>19770</blastatt>
+        <strikedef>12300</strikedef>
+        <blastdef>12050</blastdef>
+        <mainability>Warrior Blood</mainability>
+        <maintooltip>Restore own health by 20% and +20% to Strike and Blast Damage of allies for 15 timer counts. Requirements: 10 timer counts elapse.</maintooltip>
+        <zability>+10~16% to Tag: Saiyan max base health during battle.</zability>
+        <uniqueability>Rage: Strike Atk+</uniqueability>
+        <uniquetooltip>+10% to Strike Damage inflicted for each downed Battle member.</uniquetooltip>
+        <special>Wild Cannon</special>
+        <specialtooltip>Deals major Impact damage.</specialtooltip>
+        <extra>Unlock Ki: Form of Attack</extra>
+        <extratooltip>+15% to Strike damage inflicted for 20 timer counts.</extratooltip>
+        <ultimate>-</ultimate>
+        <ultimatetooltip>-</ultimatetooltip>
+        <artcard1>Strike</artcard1>
+        <artcard2>Blast</artcard2>
+        <chartag1>Saiyan</chartag1>
+        <chartag2>-</chartag2>
+        <chartag3>-</chartag3>
+        <sprite>h_shallot_lgt.jpg</sprite>
+    </char>
+     <char id = "02_Raditz_EX_PUR.png">
+        <name>Raditz</name>
+        <color>purpleElement</color>
+        <health>216250</health>
+        <strikeatt>22460</strikeatt>
+        <blastatt>24090</blastatt>
+        <strikedef>11770</strikedef>
+        <blastdef>11420</blastdef>
+        <mainability>Insatiable Invader</mainability>
+        <maintooltip>-5 to own Blast Arts cost for 15 timer counts. Requirements: 10 timer counts must elapse.</maintooltip>
+        <zability>+12~18% to Tag: Saiyan max base health during battle.</zability>
+        <uniqueability>Anti-Super Warrior: Blast Atk+</uniqueability>
+        <uniquetooltip>+15% to Blast Damage inflicted against Tag: Super Warrior.</uniquetooltip>
+        <special>Double Sunday</special>
+        <specialtooltip>Deals major Impact damage. +10% to own Blast Arts power for 15 timer counts.</specialtooltip>
+        <extra>Unlock Ki: Form of Attack</extra>
+        <extratooltip>+15% to damage inflicted for 15 timer counts.</extratooltip>
+        <ultimate>-</ultimate>
+        <ultimatetooltip>-</ultimatetooltip>
+        <artcard1>Strike</artcard1>
+        <artcard2>Strike</artcard2>
+        <chartag1>Saiyan</chartag1>
+        <chartag2>Frieza Force</chartag2>
+        <chartag3>-</chartag3>
+        <sprite>ex_raditz_pur.jpg</sprite>
+    </char>
+     <char id = "03_GokuBase_SP_BLU.png">
+        <name>Goku</name>
+        <color>blueElement</color>
+        <health>242700</health>
+        <strikeatt>21620</strikeatt>
+        <blastatt>19850</blastatt>
+        <strikedef>16480</strikedef>
+        <blastdef>17330</blastdef>
+        <mainability>Last Hope</mainability>
+        <maintooltip>Cause enemy to receive 40% more Blast Damage for 25 timer counts. Requirements: 15 timer counts must elapse.</maintooltip>
+        <zability>+19~25% to Tag: Saiyan base Strike Defense during battle.</zability>
+        <uniqueability>Double-Team: Blast Atk+</uniqueability>
+        <uniquetooltip>+20% to Blast Damage inflicted when 3 battle members are left.</uniquetooltip>
+        <special>Spirit Bomb</special>
+        <specialtooltip>Deals major explode damage. 30% chance to inflict Faint and enemy receives +15% Blast damage for 15 timer counts.</specialtooltip>
+        <extra>Unlock Ki: Form of Attack</extra>
+        <extratooltip>+15% to Strike damage inflicted for 20 timer counts.</extratooltip>
+        <ultimate>-</ultimate>
+        <ultimatetooltip>-</ultimatetooltip>
+        <artcard1>Blast</artcard1>
+        <artcard2>Blast</artcard2>
+        <chartag1>Saiyan</chartag1>
+        <chartag2>Son Family</chartag2>
+        <chartag3>-</chartag3>
+        <sprite>sp_sbgoku_blu.jpg</sprite>
+    </char>
+     <char id = "03_GokuSSJ_SP_RED.png">
+        <name>Goku SSJ</name>
+        <color>redElement</color>
+        <health>220610</health>
+        <strikeatt>23300</strikeatt>
+        <blastatt>29240</blastatt>
+        <strikedef>14130</strikedef>
+        <blastdef>14850</blastdef>
+        <mainability>My Turn</mainability>
+        <maintooltip>Draw the Ultimate Arts Card "Super Dragon Fist" next. Requirements: 25 timer counts must elapse.</maintooltip>
+        <zability>+19~25% to Tag: Saiyan base Strike Attack during battle.</zability>
+        <uniqueability>Avenge (Krillin): Blast Atk+</uniqueability>
+        <uniquetooltip>+35% to Blast Damage inflicted when allied Character: Krillin is defeated.</uniquetooltip>
+        <special>Super Kamehameha</special>
+        <specialtooltip>Deals major Impact damage. +15% to own Special Move Arts power for 15 timer counts.</specialtooltip>
+        <extra>Unlock Ki: Form of Attack</extra>
+        <extratooltip>+15% to damage inflicted for 20 timer counts.</extratooltip>
+        <ultimate>Super Dragon Fist</ultimate>
+        <ultimatetooltip>Deals major Impact damage.</ultimatetooltip>
+        <artcard1>Strike</artcard1>
+        <artcard2>Strike</artcard2>
+        <chartag1>Saiyan</chartag1>
+        <chartag2>Super Saiyan</chartag2>
+        <chartag3>Son Family</chartag3>
+        <sprite>sp_ssjgoku_red.jpg</sprite>
+    </char>
+</CharDetails>
+

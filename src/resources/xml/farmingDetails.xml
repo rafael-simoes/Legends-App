@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<farming>
+    <patch id="current">
+        <curPatch>1.8.0</curPatch>
+    </patch>
+    <soul id="risingpurple1">
+        <map1>1-4-6</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="risingpurple2">
+        <map1>1-7-1</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="risingpurple3">
+        <map1>1-2-4 HARD</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="superpurple1">
+        <map1>1-4-6 (43.6%)</map1>
+        <map2>1-5-3 (34%)</map2>
+        <map3>1-6-3 (30%)</map3>
+        <map4>1-7-1 (30%)</map4>
+    </soul>
+    <soul id="superpurple2">
+        <map1>1-4-6 (2.88%)</map1>
+        <map2>1-5-3 (3.67%)</map2>
+        <map3>1-6-6 (2.33%)</map3>
+        <map4>1-2-4 HARD (4.67%)</map4>
+    </soul>
+    <soul id="superpurple3">
+        <map1>TBA</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    
+    <soul id="risingred1">
+        <map1>1-4-1</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="risingred2">
+        <map1>1-2-1 HARD</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="risingred3">
+        <map1>1-2-2 HARD</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="superred1">
+        <map1>1-4-1 (34.3%)</map1>
+        <map2>1-7-2 (42.9%)</map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="superred2">
+        <map1>1-4-1 (2%)</map1>
+        <map2>1-5-5 (2.33%)</map2>
+        <map3>1-2-1 HARD (5.33%)</map3>
+        <map4></map4>
+    </soul>
+    <soul id="superred3">
+        <map1>TBA</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    
+    <soul id="risinggreen1">
+        <map1>1-2-6</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="risinggreen2">
+        <map1>1-6-9</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="risinggreen3">
+        <map1>1-2-6 HARD</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="supergreen1">
+        <map1>1-4-3 (28.9%)</map1>
+        <map2>1-5-4</map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="supergreen2">
+        <map1>1-4-5 (3.33%)</map1>
+        <map2>1-6-9 (5.33%)</map2>
+        <map3>1-1-3 HARD (4.98%)</map3>
+        <map4>1-2-6 HARD (4.67%)</map4>
+    </soul>
+    <soul id="supergreen3">
+        <map1>TBA</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    
+    <soul id="risingblue1">
+        <map1>1-4-2</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="risingblue2">
+        <map1>1-5-6</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="risingblue3">
+        <map1>1-2-5 HARD</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="superblue1">
+        <map1>1-3-2 (27.7%)</map1>
+        <map2>1-5-6 (33.8%)</map2>
+        <map3>1-1-2 HARD (27%)</map3>
+        <map4>1-2-5 HARD (30.6%)</map4>
+    </soul>
+    <soul id="superblue2">
+        <map1>1-6-5 (2.67%)</map1>
+        <map2>1-6-8 (3%)</map2>
+        <map3>1-7-6 (2.67%)</map3>
+        <map4>1-1-1 HARD (6.33%)</map4>
+    </soul>
+    <soul id="superblue3">
+        <map1>TBA</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    
+    <soul id="risingyellow1">
+        <map1>1-4-7</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="risingyellow2">
+        <map1>1-7-4</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="risingyellow3">
+        <map1>1-1-2 HARD</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="superyellow1">
+        <map1>1-4-7 (32.3%)</map1>
+        <map2>1-2-2 HARD (31%)</map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+    <soul id="superyellow2">
+        <map1>1-4-9 (4%)</map1>
+        <map2>1-7-5 (3.33%)</map2>
+        <map3>1-7-8 (3%)</map3>
+        <map4>1-1-2 HARD (8%)</map4>
+    </soul>
+    <soul id="superyellow3">
+        <map1>TBA</map1>
+        <map2></map2>
+        <map3></map3>
+        <map4></map4>
+    </soul>
+</farming>
